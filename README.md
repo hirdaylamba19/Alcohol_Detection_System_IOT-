@@ -124,8 +124,4 @@ If MQ-3 is unavailable in the simulator, use a potentiometer as an analog input 
 
 <div align="center">
 
-### ⭐ If you find this project useful, consider starring the repository!
-
-**Built with 🔌 Arduino | 💻 C++ | 🧪 Tinkercad**
-
 </div>
